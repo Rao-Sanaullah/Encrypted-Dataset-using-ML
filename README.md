@@ -7,7 +7,7 @@ In recent years, with the increasing importance of dataset privacy in machine le
 
 We test the performance of CNN models trained on encrypted data with several encryption approaches. Parameters such as training time, memory usage, and classification accuracy are analyzed and compared between encryption methods.
 
-![Experimental Results](https://github.com/Rao-Sanaullah/Encrypted-Dataset-using-ML/blob/main/1.png)
+![Experimental Results](https://github.com/Rao-Sanaullah/Encrypted-Dataset-using-ML/blob/main/test.png)
 
 # Real-time Testing
 
