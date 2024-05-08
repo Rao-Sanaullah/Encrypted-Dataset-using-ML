@@ -5,3 +5,5 @@ In recent years, with the increasing importance of dataset privacy in machine le
 
 # Experimental Results:
 
+![Experimental Results](https://github.com/Rao-Sanaullah/Encrypted-Dataset-using-ML/blob/main/1.png)
+
