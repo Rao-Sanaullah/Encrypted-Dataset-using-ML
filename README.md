@@ -19,3 +19,7 @@ Encrypted Dataset-based Digit Recognition Application: We also look into the eff
 ![XOR-Encrypted](https://github.com/Rao-Sanaullah/Encrypted-Dataset-using-ML/blob/main/3.png)
 ![XOR-Encrypted](https://github.com/Rao-Sanaullah/Encrypted-Dataset-using-ML/blob/main/7.png)
 
+
+For any help, please contact
+
+Sanaullah (sanaullah@hsbi.de)
