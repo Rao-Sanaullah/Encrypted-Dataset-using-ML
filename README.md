@@ -5,35 +5,3 @@ In recent years, with the increasing importance of dataset privacy in machine le
 
 # Experimental Results:
 
-\begin{table}[!t]
-\footnotesize
-\centering
-\caption{Accuracy with Resource Consumption} \midrule
-\label{tab:model}
-{
-\footnotesize
-\begin{tabular}{cccccccc}
-\toprule
-\textbf{Encryption} & \textbf{Test} & \textbf{CPU Time} & \textbf{Memory} \\
-\textbf{Model} & \textbf{Accuracy} & \textbf{(sec.)} & \textbf{(KB)} \\
-\midrule
-Original Data & 99.25\% & 85.50 & 306,140\\
-XOR & 96.70\% & 76.61 & 156 \\
-S.Cipher & 11.35\% & 75.92 & 30,744 \\
-Homomorphic & 98.02\% & 75.92 & 30744\\
-\bottomrule
-\end{tabular}
-}
-\subfloat[\scriptsize Error Rate (\%)]{
-\begin{tabular}{cc}
-\toprule
-\textbf{Encryption Techniques} & \textbf{Error Rate (\%)} \\
-\midrule
-Original Data & 0.75\% \\
-XOR Encryption & 3.30\% \\
-Substitution Cipher & 88.65\% \\
-Homomorphic Encryption & 1.98\% \\
-\bottomrule
-\end{tabular}
-}
-\end{table}
